@@ -1,0 +1,23 @@
+[
+  {
+    "accountId": "Secret1337",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2022-12-15T21:08:48.175Z",
+    "favorite": false
+  },
+  {
+    "accountId": "secret_pommes",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2022-12-15T21:12:00.828Z",
+    "favorite": false
+  },
+  {
+    "accountId": "SECRET1337",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2022-12-15T21:17:14.195Z",
+    "favorite": false
+  }
+]

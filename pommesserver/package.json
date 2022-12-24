@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "cli-color": "^2.0.3",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security"
+  },
+  "name": "pommesserver",
+  "version": "2.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "restart": "node index.js",
+    "install": "npm i"
+  },
+  "keywords": [
+    "backend",
+    "server",
+    "1337"
+  ],
+  "author": "secret1337",
+  "license": "ISC",
+  "description": "A Server made by: secret1337 for private uses and some other shit"
+}

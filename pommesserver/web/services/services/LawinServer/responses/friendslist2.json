@@ -1,0 +1,38 @@
+{
+  "friends": [
+    {
+      "accountId": "Secret1337",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2022-12-15T21:08:48.175Z"
+    },
+    {
+      "accountId": "secret_pommes",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2022-12-15T21:12:00.828Z"
+    },
+    {
+      "accountId": "SECRET1337",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2022-12-15T21:17:14.195Z"
+    }
+  ],
+  "incoming": [],
+  "outgoing": [],
+  "suggested": [],
+  "blocklist": [],
+  "settings": {
+    "acceptInvites": "public"
+  }
+}

@@ -1,0 +1,29 @@
+{
+    "ServerStatus":{
+        "WebServiceUP":true,
+        "RouterUP":true,
+        "Connected":true,
+        "DatabaseUP":true, "//":"Ab hier macht der status sinn",
+        "AllServicesUP":true,
+        "SpecialPage":true
+    },
+
+    "ServerConfig":{
+        "ServerPort":"80",
+        "ResourceChecker": false
+    },
+
+    "Services":{
+        "LawinServer":{
+            "Online":true
+        },
+        "FortXMPP":{
+            "Online":false
+        }
+    },
+    "Log":{
+        "FullLogs":false,
+        "HTTPLog":true,
+        "DebugLog":false
+    }
+}
