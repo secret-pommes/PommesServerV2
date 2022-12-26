@@ -5,3 +5,9 @@
   
 </div>
 <br>
+
+## So:
+
+### INFO:
+Pommes Server with all pages from 26/12/2022
+With the old shity node.js backend (hehe)
