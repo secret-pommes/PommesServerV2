@@ -12,4 +12,4 @@ Aurora-ServLog and Bootstrap:
 <br><br>
 <a href="https://github.com/Beat-YT/backend/blob/master/structs/logs.js">Link to AuroraServLog</a>
 <br>
-<a hred="https://getbootstrap.com/">Link to Bootstrap</a>
+<a href="https://getbootstrap.com/">Link to Bootstrap</a>
